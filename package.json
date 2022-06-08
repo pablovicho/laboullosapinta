@@ -10,7 +10,8 @@
     "mime-types": "^2.1.27",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "postgres": "^3.2.4"
+    "postgres": "^3.2.4",
+    "yarn.lock": "^0.0.1-security"
   },
   "name": "backend",
   "private": true,
