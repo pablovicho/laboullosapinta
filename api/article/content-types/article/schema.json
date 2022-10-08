@@ -39,19 +39,14 @@
       "target": "api::category.category",
       "inversedBy": "articles"
     },
-    "media": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
+    "blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "shared.media",
+        "shared.quote",
+        "shared.rich-text",
+        "shared.slider"
       ]
-    },
-    "content": {
-      "type": "richtext"
     }
   }
 }
