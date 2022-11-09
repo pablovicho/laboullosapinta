@@ -52,6 +52,10 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "mediaLink": {
+      "type": "string",
+      "regex": "/^(https?|ftp):\\/\\/[^ \"]+$/"
     }
   }
 }
