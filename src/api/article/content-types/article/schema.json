@@ -55,6 +55,11 @@
     },
     "mediaLink": {
       "type": "string"
+    },
+    "Seo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.seo"
     }
   }
 }
