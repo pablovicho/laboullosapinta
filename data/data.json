@@ -1,21 +1,21 @@
 {
   "global": {
-    "siteName": "Strapi Blog",
+    "siteName": "La Boullosa Pinta",
     "defaultSeo": {
       "metaTitle": "Page",
-      "metaDescription": "A blog made with Strapi",
+      "metaDescription": "Mercedes Boullosa's blog and store",
       "shareImage": null
     },
-    "siteDescription": "A Blog made with Strapi",
+    "siteDescription": "Mercedes Boullosa's blog and store",
     "favicon": null
   },
   "about": {
-    "title": "About the strapi blog",
+    "title": "La Boullosa Pinta",
     "blocks": [
       {
         "__component": "shared.quote",
         "title": "Thelonius Monk",
-        "body": "You've got to dig it to dig it, you dig?"
+        "body": "Mercedes Boullosa's blog and store?"
       },
       {
         "__component": "shared.rich-text",
